@@ -1,9 +1,9 @@
-# SearchEngineOfTomorrow
+# SearchEngineOfTomorrow #
 
 This page has been optimized to be fully accessible.
 
 
-##Link to deployed site:
+## Link to deployed site: ##
 https://bryantuwagbale.github.io/searchengine/
 
 
